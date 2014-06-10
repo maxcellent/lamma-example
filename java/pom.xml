@@ -12,7 +12,7 @@
         <dependency>
             <groupId>io.lamma</groupId>
             <artifactId>lamma_2.11</artifactId>
-            <version>1.1.1</version>
+            <version>1.1.2</version>
         </dependency>
     </dependencies>
 </project>
