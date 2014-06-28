@@ -3,7 +3,7 @@ package io.lamma.example;
 import io.lamma.Date;
 import io.lamma.HolidayRule;
 
-import static io.lamma.LammaConversion.*;
+import static io.lamma.LammaJavaImports.*;
 
 /**
  * this example resolving this question
